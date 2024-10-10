@@ -1,0 +1,4 @@
+python (3.11): 92
+c++ (gcc 9.2.0)  : 54
+javascript ((Node.js 20.17.0)): 97
+java (JDK 17.0.6): 91
